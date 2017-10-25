@@ -29,9 +29,14 @@
     },
     "extra": {
         "bootstrap": "dee\\angular\\Bootstrap",
-        "asset-pattern-skip-version": "(-build|-patch)",
         "branch-alias": {
             "dev-master": "1.x-dev"
+        }
+    },
+    {
+    "config": {
+        "fxp-asset": {
+            "pattern-skip-version": "(-build|-patch)",
         }
     }
 }
