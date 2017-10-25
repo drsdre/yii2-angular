@@ -35,7 +35,7 @@
     },
     "config": {
         "fxp-asset": {
-            "pattern-skip-version": "(-build|-patch)",
+            "pattern-skip-version": "(-build|-patch)"
         }
     }
 }
