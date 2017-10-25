@@ -33,7 +33,6 @@
             "dev-master": "1.x-dev"
         }
     },
-    {
     "config": {
         "fxp-asset": {
             "pattern-skip-version": "(-build|-patch)",
